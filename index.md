@@ -19,3 +19,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [ ] frstelle eine Html5 Datei 
+- [ ] füge head und meata ein .
+- [ ] füge im Body ein Formular mit input ein
+- [ ] erstelle eine Textarea
+- [ ] füge zum schluss button "senden" 
+
